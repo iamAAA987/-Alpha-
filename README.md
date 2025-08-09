@@ -8,7 +8,7 @@
 - 去重与节流（避免重复/过频推送）
 - 图形化配置面板 `gui.py`
 
-> 安全已处理：仓库不包含任何邮箱或 Twitter/X 凭据。请使用示例配置 `config.example.ini` 自行填写到本地 `config.ini`。
+请使用示例配置 `config.example.ini` 自行填写到本地 `config.ini`。
 
 ## 目录结构
 ```
@@ -125,4 +125,5 @@ pyinstaller watcher-gui.spec
 ```
 MIT License
 ```
+
 如需其它协议（Apache-2.0/GPL-3.0），请自行替换并在仓库根目录放置 `LICENSE` 文件。 
