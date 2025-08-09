@@ -1,0 +1,6 @@
+requests
+beautifulsoup4
+pytz
+playwright
+pyinstaller
+tweepy 
