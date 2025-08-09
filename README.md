@@ -125,9 +125,5 @@ pyinstaller watcher-gui.spec
 - Q: GUI 显示“未配置 Nitter 且 Twitter API 未就绪”？
   - A: 至少配置一项：填写 Nitter 实例或提供 `bearer_token + user_id`。
 
-## 许可协议
-建议添加开源许可证（如 MIT）：
-```
-MIT License
-```
-如需其它协议（Apache-2.0/GPL-3.0），请自行替换并在仓库根目录放置 `LICENSE` 文件。 
+## 结语
+- 整个项目基本上以vibe coding为主，可能存在很多问题没有测试到，尽请各位大佬斧正
