@@ -127,9 +127,11 @@ pyinstaller watcher-gui.spec
 - Q: GUI 显示“未配置 Nitter 且 Twitter API 未就绪”？
   - A: 至少配置一项：填写 Nitter 实例或提供 `bearer_token + user_id`。
 
-## 结语
+## 结语f
 - 整个项目以vibe coding为主，可能存在很多问题没有测试到，尽请各位大佬提出建议
+- 这算是一次大更新，相比原来的代码尝试修复了过量提醒的问题，并添加gui界面和企业微信提醒功能
 - 另外希望大家支持这些nitter的提供方
+
 
 
 
