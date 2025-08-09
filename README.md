@@ -126,4 +126,5 @@ pyinstaller watcher-gui.spec
   - A: 至少配置一项：填写 Nitter 实例或提供 `bearer_token + user_id`。
 
 ## 结语
-- 整个项目基本上以vibe coding为主，可能存在很多问题没有测试到，尽请各位大佬斧正
+- 整个项目以vibe coding为主，可能存在很多问题没有测试到，尽请各位大佬斧正
+
