@@ -127,4 +127,6 @@ pyinstaller watcher-gui.spec
 
 ## 结语
 - 整个项目以vibe coding为主，可能存在很多问题没有测试到，尽请各位大佬斧正
+- 另外希望大家支持这些nitter的提供方
+
 
