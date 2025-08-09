@@ -81,7 +81,7 @@ cp config.example.ini config.ini
   ```bash
   python gui.py
   ```
-  ![Uploading image.png…]()
+![微信图片_20250809230513_38](https://github.com/user-attachments/assets/1e72b64a-892b-46c1-a6e0-f025fd90f4e7)
 
   - 支持保存配置、健康检查提示
   - 一键启动/停止后台监控（Windows，采用进程与 PID 文件管理）
@@ -130,6 +130,7 @@ pyinstaller watcher-gui.spec
 ## 结语
 - 整个项目以vibe coding为主，可能存在很多问题没有测试到，尽请各位大佬斧正
 - 另外希望大家支持这些nitter的提供方
+
 
 
 
